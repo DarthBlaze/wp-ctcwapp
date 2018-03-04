@@ -15,9 +15,9 @@
  * @wordpress-plugin
  * Plugin Name:       Click-to-Chat Whatsapp
  * Plugin URI:        https://github.com/DarthBlaze/wp-ctcwapp
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       Adds a Click-to-Chat on Whatsapp button to your web site.
  * Version:           1.0.0
- * Author:            Nelson Rivera
+ * Author:            DarthBlaze (Nelson Rivera)
  * Author URI:        https://github.com/DarthBlaze
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
