@@ -2,3 +2,10 @@
  * All of the CSS for your public-facing functionality should be
  * included in this file.
  */
+
+.floating-action-button {
+    bottom: 1rem;
+    position: fixed;
+    right: 1rem;
+    z-index: 1000;
+}
